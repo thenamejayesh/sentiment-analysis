@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment-Analysis
 
 📊 Sentiment Analysis Web App
 
